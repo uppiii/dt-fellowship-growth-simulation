@@ -1,0 +1,1001 @@
+lead_id,source,industry,company_size,role,budget,engagement_score,stage
+L0001,Facebook Ads,Manufacturing,201-500,Analyst,20000,56,Lead
+L0002,Referral,Education,11-50,Manager,20000,71,Lead
+L0003,Email Campaign,Retail,11-50,Manager,20000,6,MQL
+L0004,Email Campaign,Education,201-500,Manager,20000,77,Customer
+L0005,Facebook Ads,Education,1-10,Analyst,50000,55,Lead
+L0006,Facebook Ads,Manufacturing,1-10,CTO,20000,66,Lead
+L0007,Facebook Ads,Education,11-50,Analyst,5000,15,Lead
+L0008,LinkedIn DMs,Manufacturing,1-10,CTO,20000,82,Lead
+L0009,Email Campaign,SaaS,201-500,Analyst,50000,50,Customer
+L0010,Email Campaign,SaaS,1-10,Analyst,20000,81,MQL
+L0011,Facebook Ads,Manufacturing,11-50,CTO,5000,79,MQL
+L0012,Referral,SaaS,201-500,Manager,50000,71,SQL
+L0013,LinkedIn DMs,Retail,1-10,CTO,50000,96,Lead
+L0014,Facebook Ads,Education,51-200,Founder,5000,11,MQL
+L0015,Facebook Ads,Retail,201-500,Founder,5000,52,MQL
+L0016,Facebook Ads,Education,201-500,CTO,5000,74,MQL
+L0017,Facebook Ads,SaaS,51-200,Analyst,5000,4,Customer
+L0018,Email Campaign,Retail,51-200,Founder,5000,26,SQL
+L0019,Facebook Ads,SaaS,201-500,Founder,50000,11,Lead
+L0020,Facebook Ads,Education,51-200,Analyst,50000,16,Opportunity
+L0021,Email Campaign,Manufacturing,11-50,Analyst,20000,5,Lead
+L0022,Facebook Ads,Manufacturing,11-50,Manager,20000,96,Lead
+L0023,Facebook Ads,Retail,11-50,Analyst,10000,4,Lead
+L0024,Facebook Ads,SaaS,201-500,CTO,20000,56,Lead
+L0025,Facebook Ads,SaaS,51-200,CTO,20000,27,MQL
+L0026,LinkedIn DMs,Retail,51-200,Manager,5000,77,MQL
+L0027,Facebook Ads,Manufacturing,1-10,Founder,5000,68,Customer
+L0028,Email Campaign,Education,1-10,Founder,20000,58,MQL
+L0029,Email Campaign,Retail,51-200,Analyst,10000,32,MQL
+L0030,Facebook Ads,Education,51-200,CTO,5000,61,Lead
+L0031,Email Campaign,Manufacturing,51-200,Founder,20000,49,Lead
+L0032,Facebook Ads,SaaS,201-500,Manager,20000,18,MQL
+L0033,Facebook Ads,Manufacturing,51-200,Manager,50000,85,MQL
+L0034,Referral,Retail,1-10,CTO,10000,68,Opportunity
+L0035,Referral,SaaS,201-500,Manager,50000,65,Lead
+L0036,LinkedIn DMs,Retail,51-200,Manager,10000,93,Lead
+L0037,Facebook Ads,Retail,1-10,CTO,5000,46,MQL
+L0038,Facebook Ads,Manufacturing,201-500,Analyst,10000,38,Lead
+L0039,Email Campaign,Retail,51-200,Analyst,20000,67,Lead
+L0040,Facebook Ads,Manufacturing,51-200,Manager,20000,32,SQL
+L0041,Facebook Ads,SaaS,51-200,Analyst,10000,12,Lead
+L0042,Facebook Ads,Manufacturing,201-500,Analyst,10000,83,MQL
+L0043,Facebook Ads,SaaS,1-10,Manager,10000,53,Lead
+L0044,Referral,Manufacturing,1-10,Analyst,50000,6,Lead
+L0045,Facebook Ads,Education,11-50,Manager,10000,78,Lead
+L0046,Email Campaign,Education,51-200,Founder,5000,86,Opportunity
+L0047,Facebook Ads,Retail,11-50,CTO,50000,13,Lead
+L0048,Email Campaign,Manufacturing,11-50,CTO,50000,86,SQL
+L0049,Email Campaign,Manufacturing,1-10,Analyst,10000,18,Lead
+L0050,Facebook Ads,SaaS,201-500,Analyst,5000,53,SQL
+L0051,Referral,Retail,201-500,Analyst,50000,92,Lead
+L0052,LinkedIn DMs,Manufacturing,1-10,CTO,20000,19,SQL
+L0053,Referral,Retail,201-500,Founder,50000,28,MQL
+L0054,LinkedIn DMs,Education,11-50,Founder,10000,23,Customer
+L0055,Email Campaign,Manufacturing,51-200,CTO,5000,81,Lead
+L0056,Referral,Manufacturing,1-10,Founder,10000,62,Lead
+L0057,Facebook Ads,Retail,51-200,CTO,20000,73,Lead
+L0058,Facebook Ads,Manufacturing,201-500,Founder,20000,56,Opportunity
+L0059,Facebook Ads,Retail,51-200,Manager,20000,7,MQL
+L0060,Facebook Ads,Manufacturing,201-500,Manager,10000,89,SQL
+L0061,Facebook Ads,SaaS,201-500,CTO,50000,61,Lead
+L0062,Facebook Ads,Retail,11-50,Founder,10000,28,Lead
+L0063,LinkedIn DMs,Manufacturing,201-500,Analyst,5000,73,Lead
+L0064,Facebook Ads,Education,11-50,Founder,50000,16,Customer
+L0065,Facebook Ads,Manufacturing,11-50,Manager,20000,65,SQL
+L0066,Email Campaign,Education,11-50,Manager,10000,5,Customer
+L0067,Facebook Ads,Education,1-10,Founder,20000,57,Lead
+L0068,LinkedIn DMs,SaaS,1-10,Founder,20000,68,MQL
+L0069,Facebook Ads,Retail,201-500,Analyst,5000,27,SQL
+L0070,Referral,Manufacturing,11-50,Analyst,50000,61,Lead
+L0071,LinkedIn DMs,SaaS,1-10,Founder,5000,40,Opportunity
+L0072,Facebook Ads,Manufacturing,11-50,Founder,5000,68,Customer
+L0073,Facebook Ads,Education,51-200,Founder,5000,81,Opportunity
+L0074,LinkedIn DMs,Retail,51-200,Founder,20000,89,SQL
+L0075,Email Campaign,Manufacturing,51-200,CTO,5000,83,Lead
+L0076,Email Campaign,Manufacturing,201-500,Founder,5000,40,Lead
+L0077,LinkedIn DMs,Education,11-50,Analyst,50000,48,Customer
+L0078,Facebook Ads,Manufacturing,51-200,Manager,50000,90,Lead
+L0079,Facebook Ads,Manufacturing,1-10,CTO,5000,48,SQL
+L0080,Facebook Ads,Education,51-200,Founder,50000,75,SQL
+L0081,LinkedIn DMs,SaaS,51-200,Manager,50000,70,MQL
+L0082,Email Campaign,Education,51-200,CTO,5000,2,Customer
+L0083,Facebook Ads,SaaS,201-500,Manager,20000,9,Lead
+L0084,Facebook Ads,Retail,1-10,Founder,5000,97,Lead
+L0085,Facebook Ads,SaaS,11-50,Founder,50000,88,Lead
+L0086,Facebook Ads,SaaS,1-10,Analyst,20000,34,MQL
+L0087,Email Campaign,Retail,11-50,Founder,10000,79,Lead
+L0088,Email Campaign,SaaS,201-500,Founder,20000,1,Lead
+L0089,LinkedIn DMs,Education,201-500,CTO,50000,23,Opportunity
+L0090,Facebook Ads,SaaS,201-500,Analyst,20000,73,Customer
+L0091,Facebook Ads,Retail,201-500,CTO,5000,37,Lead
+L0092,Email Campaign,Education,11-50,Manager,10000,21,Lead
+L0093,LinkedIn DMs,Retail,51-200,Founder,10000,25,Customer
+L0094,Email Campaign,Retail,11-50,Manager,10000,42,Lead
+L0095,LinkedIn DMs,Manufacturing,1-10,CTO,50000,54,Lead
+L0096,Facebook Ads,Manufacturing,201-500,Founder,50000,38,Lead
+L0097,Email Campaign,Retail,201-500,Founder,10000,90,MQL
+L0098,Facebook Ads,Retail,1-10,CTO,20000,28,Lead
+L0099,Facebook Ads,Retail,11-50,CTO,10000,19,Customer
+L0100,Facebook Ads,Manufacturing,51-200,CTO,20000,90,MQL
+L0101,Facebook Ads,Manufacturing,51-200,CTO,20000,40,MQL
+L0102,Email Campaign,SaaS,1-10,CTO,50000,53,Lead
+L0103,Facebook Ads,SaaS,51-200,Founder,20000,19,MQL
+L0104,Email Campaign,Retail,11-50,CTO,10000,18,SQL
+L0105,Referral,Education,11-50,Founder,50000,83,SQL
+L0106,Facebook Ads,Education,1-10,Founder,5000,98,SQL
+L0107,Facebook Ads,Manufacturing,11-50,CTO,5000,65,MQL
+L0108,LinkedIn DMs,Manufacturing,201-500,CTO,50000,29,Customer
+L0109,Facebook Ads,Manufacturing,1-10,Analyst,10000,52,Opportunity
+L0110,Facebook Ads,Retail,11-50,Founder,5000,33,SQL
+L0111,Facebook Ads,Education,1-10,CTO,5000,21,Lead
+L0112,Facebook Ads,SaaS,51-200,CTO,20000,66,Lead
+L0113,Referral,Retail,11-50,CTO,20000,5,Lead
+L0114,LinkedIn DMs,SaaS,201-500,Analyst,10000,78,SQL
+L0115,Email Campaign,SaaS,11-50,Analyst,50000,26,MQL
+L0116,LinkedIn DMs,Retail,1-10,Manager,10000,9,MQL
+L0117,LinkedIn DMs,SaaS,1-10,Founder,50000,72,Opportunity
+L0118,Facebook Ads,Education,11-50,Manager,5000,96,Opportunity
+L0119,LinkedIn DMs,SaaS,201-500,CTO,20000,95,Customer
+L0120,Email Campaign,Education,201-500,Analyst,10000,47,Lead
+L0121,LinkedIn DMs,Education,201-500,Analyst,10000,69,SQL
+L0122,LinkedIn DMs,Education,1-10,Manager,50000,58,Lead
+L0123,Facebook Ads,Manufacturing,11-50,Analyst,50000,99,Lead
+L0124,Facebook Ads,SaaS,51-200,CTO,10000,58,Lead
+L0125,Facebook Ads,Retail,1-10,Analyst,50000,1,Lead
+L0126,Facebook Ads,Retail,201-500,Manager,10000,28,MQL
+L0127,LinkedIn DMs,SaaS,11-50,CTO,10000,67,Opportunity
+L0128,LinkedIn DMs,Manufacturing,201-500,Manager,10000,64,Lead
+L0129,Facebook Ads,Manufacturing,51-200,Analyst,5000,82,SQL
+L0130,Email Campaign,Education,201-500,Manager,50000,25,MQL
+L0131,Facebook Ads,SaaS,201-500,Manager,20000,88,Lead
+L0132,Facebook Ads,SaaS,51-200,Founder,20000,9,MQL
+L0133,Facebook Ads,Retail,11-50,Analyst,50000,52,Lead
+L0134,Facebook Ads,SaaS,1-10,Analyst,10000,78,MQL
+L0135,Referral,Manufacturing,11-50,Manager,20000,58,MQL
+L0136,Facebook Ads,SaaS,51-200,Founder,20000,21,Lead
+L0137,Email Campaign,Retail,201-500,Analyst,50000,50,Lead
+L0138,Email Campaign,Education,11-50,CTO,20000,47,MQL
+L0139,Facebook Ads,Retail,1-10,Manager,10000,20,Customer
+L0140,Referral,Retail,51-200,Analyst,50000,21,Lead
+L0141,Referral,Education,11-50,CTO,10000,99,SQL
+L0142,Facebook Ads,Retail,1-10,Analyst,20000,97,SQL
+L0143,Facebook Ads,Retail,51-200,CTO,20000,29,Customer
+L0144,Facebook Ads,SaaS,1-10,Manager,10000,24,Opportunity
+L0145,Facebook Ads,SaaS,51-200,Analyst,5000,27,MQL
+L0146,Facebook Ads,Education,201-500,Analyst,20000,64,SQL
+L0147,Email Campaign,SaaS,11-50,Founder,5000,44,Opportunity
+L0148,Email Campaign,SaaS,1-10,Manager,20000,67,Lead
+L0149,Facebook Ads,Retail,51-200,CTO,5000,6,Lead
+L0150,Facebook Ads,Manufacturing,1-10,Analyst,5000,48,Lead
+L0151,Referral,SaaS,1-10,Analyst,5000,8,Opportunity
+L0152,Facebook Ads,Manufacturing,11-50,CTO,10000,35,Opportunity
+L0153,Facebook Ads,SaaS,201-500,Manager,5000,82,Lead
+L0154,Facebook Ads,SaaS,1-10,Founder,5000,0,MQL
+L0155,Referral,Education,51-200,Founder,5000,9,MQL
+L0156,Facebook Ads,Education,51-200,Analyst,20000,35,Lead
+L0157,Email Campaign,Education,201-500,CTO,5000,72,Customer
+L0158,LinkedIn DMs,Manufacturing,51-200,Analyst,20000,45,Lead
+L0159,Facebook Ads,Retail,201-500,CTO,5000,31,Lead
+L0160,Email Campaign,SaaS,51-200,Founder,5000,31,MQL
+L0161,Facebook Ads,SaaS,11-50,Manager,10000,5,SQL
+L0162,Email Campaign,SaaS,1-10,CTO,20000,47,Lead
+L0163,Email Campaign,Manufacturing,11-50,Founder,5000,37,SQL
+L0164,Email Campaign,Education,1-10,Analyst,20000,16,MQL
+L0165,Facebook Ads,Retail,1-10,CTO,20000,73,Lead
+L0166,LinkedIn DMs,Manufacturing,1-10,Manager,50000,26,Lead
+L0167,Facebook Ads,Education,11-50,Analyst,10000,53,MQL
+L0168,Facebook Ads,Manufacturing,1-10,Analyst,10000,49,Lead
+L0169,Facebook Ads,Retail,11-50,Founder,10000,34,Customer
+L0170,Email Campaign,Education,201-500,CTO,50000,84,Opportunity
+L0171,Email Campaign,Manufacturing,51-200,Analyst,50000,24,Customer
+L0172,Facebook Ads,Retail,51-200,Manager,10000,27,Lead
+L0173,Email Campaign,SaaS,1-10,CTO,50000,14,Customer
+L0174,Facebook Ads,Retail,11-50,Manager,50000,3,MQL
+L0175,Email Campaign,SaaS,51-200,Analyst,50000,92,Lead
+L0176,Facebook Ads,Manufacturing,11-50,Manager,10000,72,Lead
+L0177,Email Campaign,Education,11-50,Founder,10000,26,Lead
+L0178,Facebook Ads,Education,1-10,Manager,10000,25,SQL
+L0179,Referral,Manufacturing,51-200,CTO,50000,18,MQL
+L0180,Facebook Ads,Education,1-10,Manager,10000,91,Lead
+L0181,Facebook Ads,Education,1-10,Manager,50000,16,MQL
+L0182,Facebook Ads,SaaS,51-200,Founder,5000,42,Lead
+L0183,Referral,Manufacturing,51-200,Manager,50000,40,MQL
+L0184,LinkedIn DMs,Retail,201-500,Manager,20000,41,Lead
+L0185,Facebook Ads,SaaS,201-500,Analyst,10000,49,Opportunity
+L0186,Email Campaign,Manufacturing,11-50,Analyst,10000,83,Opportunity
+L0187,LinkedIn DMs,SaaS,51-200,CTO,20000,39,MQL
+L0188,Email Campaign,Retail,201-500,Analyst,50000,38,Lead
+L0189,Email Campaign,Retail,11-50,Analyst,5000,22,Lead
+L0190,Facebook Ads,Manufacturing,11-50,Analyst,20000,95,Opportunity
+L0191,Facebook Ads,Retail,11-50,Analyst,20000,51,Lead
+L0192,LinkedIn DMs,SaaS,201-500,Founder,50000,46,Lead
+L0193,Referral,Retail,51-200,Analyst,10000,62,Lead
+L0194,Email Campaign,SaaS,1-10,Founder,50000,96,MQL
+L0195,Facebook Ads,SaaS,11-50,Founder,20000,68,MQL
+L0196,Facebook Ads,Retail,201-500,Analyst,20000,42,Opportunity
+L0197,Email Campaign,Manufacturing,201-500,Manager,10000,47,Lead
+L0198,LinkedIn DMs,Education,1-10,Founder,10000,33,Lead
+L0199,LinkedIn DMs,Retail,1-10,Manager,10000,39,Opportunity
+L0200,LinkedIn DMs,SaaS,201-500,Manager,50000,74,Opportunity
+L0201,Email Campaign,SaaS,51-200,Analyst,10000,60,Lead
+L0202,Facebook Ads,Retail,1-10,CTO,20000,49,MQL
+L0203,Facebook Ads,Manufacturing,201-500,Analyst,20000,66,Lead
+L0204,LinkedIn DMs,Manufacturing,1-10,CTO,5000,61,Customer
+L0205,Email Campaign,SaaS,51-200,CTO,50000,57,Lead
+L0206,Facebook Ads,SaaS,11-50,Analyst,5000,32,Customer
+L0207,Facebook Ads,Manufacturing,1-10,Analyst,20000,74,SQL
+L0208,Email Campaign,Education,51-200,CTO,5000,15,MQL
+L0209,Facebook Ads,Retail,201-500,Analyst,20000,81,Lead
+L0210,Facebook Ads,SaaS,1-10,CTO,5000,93,MQL
+L0211,Email Campaign,SaaS,1-10,Manager,10000,47,MQL
+L0212,Email Campaign,Manufacturing,201-500,Analyst,5000,9,Lead
+L0213,Email Campaign,Retail,11-50,Manager,10000,81,SQL
+L0214,Facebook Ads,Manufacturing,201-500,Founder,10000,37,Customer
+L0215,Email Campaign,Retail,1-10,Manager,50000,18,MQL
+L0216,Facebook Ads,Retail,201-500,Manager,10000,35,SQL
+L0217,Facebook Ads,Retail,51-200,CTO,10000,58,Lead
+L0218,Email Campaign,SaaS,201-500,Manager,5000,62,MQL
+L0219,Email Campaign,Education,1-10,Analyst,20000,76,Lead
+L0220,LinkedIn DMs,Manufacturing,201-500,CTO,50000,45,MQL
+L0221,Email Campaign,Education,11-50,Founder,10000,2,Customer
+L0222,Email Campaign,Manufacturing,201-500,Analyst,50000,73,SQL
+L0223,Facebook Ads,Retail,11-50,Founder,5000,64,Lead
+L0224,Facebook Ads,SaaS,51-200,Manager,10000,90,Lead
+L0225,Facebook Ads,Education,11-50,Analyst,5000,7,MQL
+L0226,Facebook Ads,SaaS,201-500,Analyst,50000,50,MQL
+L0227,Referral,Manufacturing,1-10,Founder,5000,80,Opportunity
+L0228,Facebook Ads,SaaS,11-50,Analyst,50000,72,Opportunity
+L0229,LinkedIn DMs,SaaS,51-200,Analyst,5000,5,MQL
+L0230,Email Campaign,Education,11-50,Analyst,50000,88,Lead
+L0231,LinkedIn DMs,Retail,11-50,Manager,20000,38,Lead
+L0232,Email Campaign,SaaS,11-50,Founder,5000,59,Lead
+L0233,Email Campaign,Retail,51-200,Analyst,5000,27,Lead
+L0234,Facebook Ads,Manufacturing,201-500,CTO,20000,96,MQL
+L0235,Facebook Ads,SaaS,11-50,CTO,20000,53,SQL
+L0236,Email Campaign,Education,11-50,CTO,5000,36,SQL
+L0237,Facebook Ads,Manufacturing,1-10,CTO,20000,8,Lead
+L0238,Facebook Ads,Manufacturing,51-200,Manager,10000,81,Lead
+L0239,Email Campaign,Education,11-50,Analyst,50000,55,Lead
+L0240,Facebook Ads,SaaS,51-200,Founder,50000,58,Lead
+L0241,Referral,SaaS,11-50,Analyst,50000,84,Opportunity
+L0242,Referral,Manufacturing,201-500,Manager,10000,1,Lead
+L0243,Referral,SaaS,201-500,CTO,20000,60,MQL
+L0244,Facebook Ads,Retail,11-50,Manager,20000,57,Lead
+L0245,Facebook Ads,Education,201-500,Analyst,5000,59,Opportunity
+L0246,Referral,Retail,11-50,Founder,20000,39,MQL
+L0247,Facebook Ads,SaaS,201-500,Manager,5000,35,Lead
+L0248,Referral,Manufacturing,1-10,Founder,10000,36,MQL
+L0249,Referral,Education,1-10,Manager,50000,78,SQL
+L0250,LinkedIn DMs,SaaS,1-10,Founder,50000,91,Customer
+L0251,Facebook Ads,SaaS,51-200,Founder,50000,17,Lead
+L0252,Facebook Ads,Manufacturing,51-200,CTO,20000,97,Opportunity
+L0253,LinkedIn DMs,Manufacturing,1-10,Founder,5000,62,Customer
+L0254,Facebook Ads,Retail,51-200,CTO,5000,21,Customer
+L0255,Facebook Ads,Education,201-500,Analyst,10000,10,MQL
+L0256,Email Campaign,Education,11-50,Analyst,20000,57,MQL
+L0257,Referral,Manufacturing,11-50,CTO,10000,56,MQL
+L0258,Email Campaign,Retail,11-50,CTO,5000,76,SQL
+L0259,Email Campaign,Education,1-10,Manager,5000,3,MQL
+L0260,Facebook Ads,Manufacturing,51-200,Manager,50000,85,SQL
+L0261,Email Campaign,SaaS,201-500,Manager,20000,6,MQL
+L0262,Referral,Education,201-500,Analyst,5000,60,SQL
+L0263,Facebook Ads,Retail,1-10,Manager,50000,53,Opportunity
+L0264,Email Campaign,Retail,201-500,Founder,20000,87,Lead
+L0265,LinkedIn DMs,Retail,201-500,Founder,10000,67,Opportunity
+L0266,Email Campaign,SaaS,201-500,Manager,20000,91,MQL
+L0267,Email Campaign,Education,201-500,Founder,20000,78,Opportunity
+L0268,Email Campaign,Education,51-200,Analyst,5000,0,MQL
+L0269,Facebook Ads,SaaS,201-500,Founder,5000,54,Lead
+L0270,Facebook Ads,Education,11-50,Analyst,20000,2,Customer
+L0271,LinkedIn DMs,SaaS,1-10,CTO,5000,77,Lead
+L0272,LinkedIn DMs,SaaS,51-200,CTO,5000,37,Opportunity
+L0273,LinkedIn DMs,SaaS,201-500,CTO,5000,0,MQL
+L0274,Referral,Retail,51-200,CTO,50000,37,MQL
+L0275,Email Campaign,Education,201-500,Founder,50000,84,Lead
+L0276,Email Campaign,SaaS,11-50,Manager,20000,28,MQL
+L0277,LinkedIn DMs,Education,1-10,Founder,5000,4,Lead
+L0278,Email Campaign,Retail,201-500,Analyst,50000,73,Lead
+L0279,Email Campaign,SaaS,201-500,Founder,20000,91,Lead
+L0280,LinkedIn DMs,Manufacturing,201-500,Founder,5000,20,Lead
+L0281,LinkedIn DMs,Retail,201-500,Analyst,10000,70,Customer
+L0282,Facebook Ads,Manufacturing,1-10,CTO,5000,66,Customer
+L0283,Facebook Ads,Education,1-10,CTO,5000,46,Lead
+L0284,Facebook Ads,Education,11-50,CTO,50000,83,SQL
+L0285,Email Campaign,Retail,1-10,Manager,20000,82,Lead
+L0286,Facebook Ads,Education,201-500,Analyst,20000,34,SQL
+L0287,Facebook Ads,Manufacturing,11-50,Analyst,50000,67,Opportunity
+L0288,Email Campaign,SaaS,11-50,Founder,5000,68,Customer
+L0289,Facebook Ads,SaaS,11-50,Manager,10000,0,MQL
+L0290,Email Campaign,SaaS,201-500,CTO,5000,67,SQL
+L0291,Facebook Ads,Retail,51-200,Manager,5000,11,Lead
+L0292,Facebook Ads,Education,201-500,Analyst,10000,59,Customer
+L0293,LinkedIn DMs,Manufacturing,1-10,Analyst,50000,26,Lead
+L0294,Facebook Ads,Education,1-10,Founder,20000,55,MQL
+L0295,Facebook Ads,Education,201-500,Founder,50000,22,SQL
+L0296,Email Campaign,Education,201-500,Analyst,50000,24,SQL
+L0297,LinkedIn DMs,SaaS,11-50,CTO,5000,20,Lead
+L0298,Facebook Ads,Manufacturing,201-500,CTO,20000,60,Customer
+L0299,Email Campaign,Manufacturing,11-50,Manager,20000,62,Lead
+L0300,Facebook Ads,Education,1-10,Analyst,50000,51,MQL
+L0301,Facebook Ads,SaaS,11-50,Analyst,10000,87,Lead
+L0302,Email Campaign,SaaS,201-500,CTO,50000,24,Lead
+L0303,Email Campaign,Manufacturing,1-10,CTO,10000,54,MQL
+L0304,Email Campaign,SaaS,51-200,Analyst,20000,45,MQL
+L0305,Email Campaign,SaaS,11-50,Founder,50000,31,Lead
+L0306,Referral,SaaS,1-10,Analyst,5000,54,Lead
+L0307,Email Campaign,Retail,11-50,Analyst,50000,95,MQL
+L0308,Facebook Ads,Education,1-10,CTO,20000,4,SQL
+L0309,LinkedIn DMs,Manufacturing,1-10,CTO,5000,35,Opportunity
+L0310,Facebook Ads,Manufacturing,11-50,Founder,5000,48,Lead
+L0311,Facebook Ads,Retail,51-200,Founder,10000,57,Lead
+L0312,Facebook Ads,Education,1-10,Manager,5000,38,Lead
+L0313,Facebook Ads,Manufacturing,1-10,Analyst,5000,79,Lead
+L0314,Referral,SaaS,1-10,CTO,50000,96,SQL
+L0315,LinkedIn DMs,Manufacturing,51-200,Founder,20000,84,MQL
+L0316,Email Campaign,SaaS,51-200,Manager,10000,60,Lead
+L0317,Facebook Ads,Retail,201-500,Manager,50000,8,Lead
+L0318,Facebook Ads,SaaS,11-50,CTO,5000,5,Lead
+L0319,Facebook Ads,Manufacturing,51-200,CTO,5000,34,Opportunity
+L0320,Facebook Ads,Manufacturing,11-50,Manager,10000,38,Customer
+L0321,Email Campaign,Manufacturing,201-500,Founder,20000,21,Lead
+L0322,Email Campaign,Retail,11-50,Manager,10000,40,Lead
+L0323,Email Campaign,Retail,51-200,Analyst,50000,4,Opportunity
+L0324,Facebook Ads,Education,11-50,Analyst,10000,41,Customer
+L0325,Referral,Manufacturing,51-200,CTO,5000,86,MQL
+L0326,Email Campaign,SaaS,11-50,Founder,50000,80,Lead
+L0327,Email Campaign,Retail,51-200,Founder,5000,75,Lead
+L0328,Email Campaign,Manufacturing,51-200,Analyst,20000,86,MQL
+L0329,Facebook Ads,Manufacturing,11-50,Manager,5000,79,Lead
+L0330,Facebook Ads,Retail,201-500,CTO,5000,66,Lead
+L0331,Facebook Ads,Education,1-10,Manager,10000,29,MQL
+L0332,LinkedIn DMs,Retail,201-500,Manager,5000,56,Lead
+L0333,Facebook Ads,Retail,11-50,Manager,50000,85,SQL
+L0334,Facebook Ads,SaaS,201-500,Founder,50000,72,Lead
+L0335,Facebook Ads,SaaS,51-200,Analyst,20000,28,Lead
+L0336,Facebook Ads,Education,1-10,Founder,50000,36,MQL
+L0337,LinkedIn DMs,Manufacturing,11-50,Analyst,10000,86,Lead
+L0338,Email Campaign,Retail,11-50,CTO,20000,12,Customer
+L0339,Facebook Ads,Education,11-50,CTO,50000,31,MQL
+L0340,Facebook Ads,SaaS,1-10,Manager,10000,45,Lead
+L0341,Facebook Ads,Retail,51-200,Analyst,50000,22,SQL
+L0342,Facebook Ads,Manufacturing,11-50,Analyst,50000,44,Lead
+L0343,Facebook Ads,SaaS,201-500,Analyst,5000,16,Customer
+L0344,Facebook Ads,SaaS,11-50,Manager,50000,84,Lead
+L0345,Facebook Ads,SaaS,11-50,Manager,50000,65,MQL
+L0346,Email Campaign,Education,11-50,CTO,10000,5,Lead
+L0347,Email Campaign,Manufacturing,11-50,Founder,10000,17,MQL
+L0348,Facebook Ads,Retail,51-200,Analyst,5000,93,Opportunity
+L0349,Facebook Ads,Education,201-500,Analyst,50000,21,Opportunity
+L0350,Email Campaign,Education,51-200,Founder,5000,32,Lead
+L0351,Email Campaign,Education,201-500,Analyst,50000,29,Lead
+L0352,LinkedIn DMs,SaaS,11-50,Manager,20000,80,Opportunity
+L0353,Email Campaign,Manufacturing,1-10,Manager,20000,31,Customer
+L0354,Facebook Ads,Education,51-200,Analyst,5000,41,Lead
+L0355,Facebook Ads,Retail,1-10,Manager,5000,77,MQL
+L0356,Email Campaign,Manufacturing,51-200,Manager,5000,9,Lead
+L0357,Facebook Ads,Retail,11-50,Analyst,10000,35,Opportunity
+L0358,Email Campaign,Manufacturing,51-200,CTO,10000,33,Lead
+L0359,Referral,Retail,11-50,Founder,10000,72,Lead
+L0360,Email Campaign,SaaS,51-200,Manager,5000,27,SQL
+L0361,Facebook Ads,Education,11-50,CTO,50000,10,Lead
+L0362,Email Campaign,Retail,11-50,Manager,20000,77,MQL
+L0363,Facebook Ads,Manufacturing,201-500,Manager,5000,38,MQL
+L0364,Email Campaign,Education,11-50,Founder,10000,46,Lead
+L0365,Referral,Education,201-500,Manager,10000,18,Lead
+L0366,Facebook Ads,Manufacturing,11-50,Founder,5000,14,MQL
+L0367,Referral,Retail,1-10,Founder,5000,27,Lead
+L0368,Referral,SaaS,11-50,Founder,10000,23,MQL
+L0369,Facebook Ads,SaaS,1-10,CTO,50000,71,Opportunity
+L0370,Facebook Ads,Retail,1-10,Analyst,10000,8,SQL
+L0371,Facebook Ads,Education,11-50,CTO,10000,46,Lead
+L0372,Facebook Ads,Education,1-10,Analyst,5000,32,Lead
+L0373,Facebook Ads,Education,201-500,Analyst,50000,61,Lead
+L0374,Email Campaign,Education,51-200,Founder,10000,96,Lead
+L0375,Facebook Ads,Retail,11-50,Manager,10000,18,MQL
+L0376,Facebook Ads,Education,1-10,Founder,20000,66,SQL
+L0377,LinkedIn DMs,Manufacturing,11-50,Manager,5000,73,Lead
+L0378,Facebook Ads,Education,201-500,Analyst,20000,39,Lead
+L0379,LinkedIn DMs,SaaS,11-50,Founder,20000,46,Lead
+L0380,Facebook Ads,Education,11-50,Manager,10000,64,SQL
+L0381,Facebook Ads,Retail,1-10,CTO,5000,28,Lead
+L0382,Email Campaign,SaaS,201-500,Manager,50000,49,MQL
+L0383,Email Campaign,Retail,51-200,Founder,10000,97,Lead
+L0384,LinkedIn DMs,Retail,51-200,CTO,50000,12,Opportunity
+L0385,Email Campaign,SaaS,1-10,Manager,50000,0,Opportunity
+L0386,LinkedIn DMs,Retail,11-50,Manager,5000,33,Lead
+L0387,Facebook Ads,Retail,1-10,Manager,20000,92,Lead
+L0388,Facebook Ads,Education,1-10,Manager,5000,47,MQL
+L0389,LinkedIn DMs,Manufacturing,1-10,Manager,50000,76,Lead
+L0390,LinkedIn DMs,Retail,11-50,CTO,10000,47,SQL
+L0391,Referral,Retail,201-500,Analyst,50000,48,Opportunity
+L0392,Facebook Ads,Retail,1-10,CTO,10000,63,SQL
+L0393,Facebook Ads,Education,11-50,CTO,10000,60,Opportunity
+L0394,LinkedIn DMs,Manufacturing,201-500,CTO,5000,28,Lead
+L0395,Facebook Ads,SaaS,1-10,Analyst,50000,38,Lead
+L0396,Referral,Education,51-200,Founder,20000,87,SQL
+L0397,LinkedIn DMs,Education,201-500,Analyst,50000,25,Lead
+L0398,Facebook Ads,Manufacturing,1-10,CTO,50000,16,SQL
+L0399,LinkedIn DMs,Manufacturing,201-500,Manager,20000,70,Lead
+L0400,LinkedIn DMs,Education,201-500,Manager,5000,12,Lead
+L0401,Facebook Ads,SaaS,201-500,CTO,50000,68,Customer
+L0402,Referral,Education,201-500,Manager,50000,25,Lead
+L0403,Email Campaign,Manufacturing,201-500,CTO,10000,48,Customer
+L0404,LinkedIn DMs,SaaS,201-500,Manager,50000,66,Customer
+L0405,Facebook Ads,Manufacturing,1-10,Analyst,20000,6,SQL
+L0406,LinkedIn DMs,SaaS,51-200,Founder,10000,57,SQL
+L0407,Facebook Ads,Retail,11-50,Founder,5000,48,MQL
+L0408,Facebook Ads,Manufacturing,201-500,Analyst,10000,52,Opportunity
+L0409,Referral,Manufacturing,11-50,Analyst,20000,64,Lead
+L0410,Facebook Ads,Education,1-10,CTO,20000,61,MQL
+L0411,Facebook Ads,Manufacturing,201-500,CTO,10000,16,MQL
+L0412,Referral,Manufacturing,51-200,CTO,5000,42,MQL
+L0413,Referral,Retail,11-50,Manager,10000,24,MQL
+L0414,Email Campaign,Manufacturing,201-500,CTO,5000,2,Lead
+L0415,Email Campaign,Retail,1-10,Analyst,10000,78,MQL
+L0416,Facebook Ads,Retail,51-200,Founder,20000,28,Opportunity
+L0417,Facebook Ads,Retail,11-50,Manager,50000,31,Lead
+L0418,Facebook Ads,Retail,11-50,CTO,50000,25,Customer
+L0419,Email Campaign,SaaS,201-500,Manager,5000,15,SQL
+L0420,LinkedIn DMs,Education,51-200,Manager,5000,24,Opportunity
+L0421,LinkedIn DMs,SaaS,51-200,CTO,5000,53,MQL
+L0422,LinkedIn DMs,Manufacturing,51-200,Manager,20000,27,SQL
+L0423,Facebook Ads,SaaS,51-200,Founder,10000,72,Lead
+L0424,Facebook Ads,SaaS,1-10,Analyst,20000,55,Opportunity
+L0425,Facebook Ads,Manufacturing,51-200,Analyst,50000,64,Lead
+L0426,Email Campaign,Manufacturing,11-50,Founder,5000,92,Opportunity
+L0427,Facebook Ads,Manufacturing,11-50,Manager,10000,85,Customer
+L0428,LinkedIn DMs,SaaS,1-10,CTO,50000,79,Lead
+L0429,Facebook Ads,SaaS,11-50,Manager,50000,40,Lead
+L0430,Facebook Ads,Manufacturing,11-50,Founder,50000,50,SQL
+L0431,Facebook Ads,Education,51-200,Manager,20000,70,Lead
+L0432,LinkedIn DMs,Education,11-50,Analyst,5000,77,Opportunity
+L0433,Email Campaign,Retail,1-10,Manager,50000,28,Lead
+L0434,Facebook Ads,Manufacturing,51-200,Founder,5000,82,Lead
+L0435,Facebook Ads,Retail,201-500,Analyst,20000,18,Customer
+L0436,Email Campaign,Education,51-200,Manager,50000,65,SQL
+L0437,Facebook Ads,Retail,1-10,Manager,20000,40,Opportunity
+L0438,LinkedIn DMs,Manufacturing,51-200,Analyst,20000,44,Lead
+L0439,Email Campaign,Manufacturing,51-200,CTO,5000,14,SQL
+L0440,Facebook Ads,Manufacturing,1-10,Analyst,50000,2,MQL
+L0441,Facebook Ads,SaaS,51-200,CTO,20000,10,MQL
+L0442,Referral,Retail,1-10,Founder,50000,52,SQL
+L0443,Facebook Ads,Education,1-10,Founder,5000,45,MQL
+L0444,Facebook Ads,Education,201-500,Analyst,20000,29,MQL
+L0445,LinkedIn DMs,Education,11-50,Analyst,5000,56,Lead
+L0446,Referral,SaaS,11-50,Founder,50000,17,SQL
+L0447,Referral,SaaS,51-200,CTO,50000,50,Lead
+L0448,LinkedIn DMs,Manufacturing,51-200,Founder,5000,47,SQL
+L0449,Facebook Ads,Education,201-500,Analyst,10000,65,Lead
+L0450,Facebook Ads,SaaS,201-500,Founder,20000,95,MQL
+L0451,LinkedIn DMs,Manufacturing,201-500,Analyst,50000,7,SQL
+L0452,Email Campaign,Education,1-10,Analyst,50000,21,Lead
+L0453,Facebook Ads,Retail,201-500,Founder,20000,5,Lead
+L0454,Referral,Manufacturing,201-500,CTO,5000,75,Lead
+L0455,Facebook Ads,SaaS,51-200,Manager,5000,56,MQL
+L0456,Facebook Ads,SaaS,201-500,Founder,5000,35,Opportunity
+L0457,Facebook Ads,Manufacturing,1-10,Manager,10000,78,Lead
+L0458,Facebook Ads,Manufacturing,1-10,Founder,10000,91,SQL
+L0459,Facebook Ads,SaaS,51-200,Manager,50000,56,Lead
+L0460,Facebook Ads,Retail,201-500,CTO,5000,48,MQL
+L0461,Facebook Ads,Education,201-500,CTO,20000,44,Customer
+L0462,Email Campaign,Retail,1-10,Founder,50000,81,Lead
+L0463,Email Campaign,Manufacturing,201-500,Analyst,20000,65,MQL
+L0464,Email Campaign,Retail,201-500,Manager,50000,76,Lead
+L0465,Referral,SaaS,201-500,Analyst,10000,44,Lead
+L0466,Facebook Ads,Manufacturing,11-50,Analyst,50000,78,Lead
+L0467,Facebook Ads,Education,51-200,Analyst,10000,19,Lead
+L0468,LinkedIn DMs,SaaS,11-50,CTO,50000,63,MQL
+L0469,Facebook Ads,SaaS,51-200,Founder,5000,92,MQL
+L0470,Referral,Education,1-10,Founder,20000,92,MQL
+L0471,Facebook Ads,Education,201-500,CTO,5000,66,Lead
+L0472,Referral,Retail,51-200,CTO,50000,82,Lead
+L0473,Facebook Ads,Manufacturing,11-50,Founder,50000,2,SQL
+L0474,LinkedIn DMs,Education,201-500,Analyst,50000,53,Customer
+L0475,Email Campaign,Education,1-10,Manager,10000,77,Lead
+L0476,Referral,Manufacturing,51-200,Manager,20000,63,Opportunity
+L0477,Facebook Ads,Education,51-200,Manager,20000,39,MQL
+L0478,Email Campaign,Education,51-200,Analyst,50000,58,MQL
+L0479,Referral,Retail,201-500,Founder,50000,54,MQL
+L0480,Email Campaign,SaaS,11-50,CTO,10000,61,Lead
+L0481,Email Campaign,SaaS,11-50,Founder,5000,3,Lead
+L0482,Email Campaign,SaaS,51-200,Analyst,5000,59,MQL
+L0483,Facebook Ads,SaaS,1-10,CTO,20000,74,Lead
+L0484,Email Campaign,Education,1-10,Analyst,10000,94,Customer
+L0485,Email Campaign,Manufacturing,11-50,Manager,50000,95,MQL
+L0486,Referral,Manufacturing,1-10,Manager,20000,90,Lead
+L0487,Facebook Ads,Retail,11-50,Analyst,10000,29,SQL
+L0488,Facebook Ads,Retail,51-200,CTO,5000,1,Lead
+L0489,Referral,Education,11-50,CTO,10000,61,MQL
+L0490,LinkedIn DMs,Manufacturing,11-50,Founder,5000,48,SQL
+L0491,Facebook Ads,Manufacturing,51-200,Manager,10000,8,Customer
+L0492,Email Campaign,SaaS,1-10,Founder,20000,91,SQL
+L0493,Facebook Ads,Education,11-50,Founder,5000,30,SQL
+L0494,Facebook Ads,Education,11-50,Analyst,20000,97,SQL
+L0495,Facebook Ads,SaaS,51-200,Analyst,20000,60,Customer
+L0496,Facebook Ads,Education,1-10,Founder,5000,78,Lead
+L0497,Email Campaign,Education,11-50,Manager,5000,47,Lead
+L0498,Facebook Ads,Retail,51-200,Analyst,50000,24,Lead
+L0499,Referral,Manufacturing,11-50,Founder,50000,35,Lead
+L0500,Referral,Education,201-500,Founder,50000,7,SQL
+L0501,Email Campaign,Retail,51-200,Founder,20000,72,MQL
+L0502,Email Campaign,Manufacturing,1-10,Founder,20000,57,MQL
+L0503,Facebook Ads,SaaS,1-10,Founder,50000,44,Lead
+L0504,LinkedIn DMs,Retail,1-10,Founder,20000,61,SQL
+L0505,Email Campaign,Retail,1-10,Analyst,20000,38,Lead
+L0506,Facebook Ads,Manufacturing,11-50,Manager,5000,95,SQL
+L0507,Referral,SaaS,11-50,Founder,5000,57,MQL
+L0508,LinkedIn DMs,Retail,1-10,CTO,20000,80,Lead
+L0509,Referral,Education,1-10,Analyst,50000,98,Lead
+L0510,Email Campaign,Education,1-10,Analyst,10000,82,Lead
+L0511,Email Campaign,Education,11-50,Founder,50000,63,Opportunity
+L0512,Facebook Ads,SaaS,1-10,Analyst,10000,43,Customer
+L0513,Referral,Retail,1-10,Founder,50000,28,MQL
+L0514,LinkedIn DMs,Education,201-500,Manager,5000,58,Lead
+L0515,Facebook Ads,SaaS,201-500,Manager,20000,70,MQL
+L0516,Facebook Ads,Education,1-10,Analyst,20000,91,SQL
+L0517,Facebook Ads,Manufacturing,51-200,Analyst,5000,8,SQL
+L0518,LinkedIn DMs,Retail,1-10,CTO,10000,91,Lead
+L0519,Referral,Retail,201-500,Analyst,10000,5,Lead
+L0520,Facebook Ads,SaaS,51-200,CTO,10000,28,SQL
+L0521,Email Campaign,SaaS,51-200,Manager,5000,57,Lead
+L0522,Facebook Ads,Retail,1-10,Manager,10000,16,Lead
+L0523,Referral,Education,201-500,Founder,5000,15,Lead
+L0524,LinkedIn DMs,Education,201-500,Manager,50000,86,MQL
+L0525,LinkedIn DMs,Manufacturing,51-200,CTO,50000,94,Opportunity
+L0526,Facebook Ads,Education,1-10,Analyst,5000,2,Customer
+L0527,Facebook Ads,SaaS,11-50,Founder,20000,20,MQL
+L0528,Facebook Ads,SaaS,11-50,CTO,50000,63,MQL
+L0529,Facebook Ads,Education,201-500,Analyst,10000,89,Lead
+L0530,LinkedIn DMs,SaaS,11-50,Founder,5000,35,MQL
+L0531,LinkedIn DMs,Retail,201-500,Manager,10000,85,Lead
+L0532,Referral,Retail,201-500,CTO,10000,61,MQL
+L0533,Referral,Education,201-500,Analyst,20000,41,Lead
+L0534,Email Campaign,Retail,11-50,Founder,10000,75,Lead
+L0535,LinkedIn DMs,Retail,201-500,Founder,20000,41,Lead
+L0536,Referral,Manufacturing,51-200,Manager,50000,60,Lead
+L0537,LinkedIn DMs,Manufacturing,1-10,Analyst,5000,12,Lead
+L0538,Facebook Ads,Retail,1-10,Manager,10000,10,Lead
+L0539,Facebook Ads,Education,201-500,Manager,5000,53,Customer
+L0540,Facebook Ads,Manufacturing,1-10,Analyst,10000,15,MQL
+L0541,Referral,SaaS,11-50,Analyst,5000,7,MQL
+L0542,Email Campaign,SaaS,11-50,Analyst,10000,58,Opportunity
+L0543,Facebook Ads,SaaS,1-10,CTO,10000,56,Customer
+L0544,Email Campaign,Education,11-50,Analyst,10000,39,MQL
+L0545,Email Campaign,Retail,1-10,Founder,10000,58,Opportunity
+L0546,Facebook Ads,SaaS,1-10,Manager,10000,1,Lead
+L0547,Facebook Ads,Education,1-10,CTO,10000,93,Lead
+L0548,Email Campaign,Manufacturing,201-500,Analyst,10000,93,MQL
+L0549,Email Campaign,Retail,1-10,CTO,10000,75,SQL
+L0550,LinkedIn DMs,Manufacturing,201-500,Analyst,10000,9,SQL
+L0551,Email Campaign,Education,1-10,CTO,5000,43,Lead
+L0552,LinkedIn DMs,SaaS,1-10,Manager,20000,10,Lead
+L0553,Email Campaign,SaaS,1-10,Manager,10000,78,MQL
+L0554,Email Campaign,Education,11-50,Founder,20000,79,Lead
+L0555,LinkedIn DMs,SaaS,201-500,Founder,10000,80,MQL
+L0556,Facebook Ads,Retail,201-500,Analyst,10000,89,SQL
+L0557,Facebook Ads,Education,1-10,Manager,5000,1,SQL
+L0558,Facebook Ads,Manufacturing,1-10,CTO,50000,49,SQL
+L0559,LinkedIn DMs,Education,11-50,CTO,50000,11,Opportunity
+L0560,Email Campaign,Retail,11-50,CTO,5000,89,MQL
+L0561,Email Campaign,Retail,11-50,Founder,20000,22,SQL
+L0562,Facebook Ads,Education,201-500,CTO,50000,17,MQL
+L0563,Facebook Ads,Education,201-500,Founder,5000,61,Lead
+L0564,Facebook Ads,SaaS,201-500,Founder,5000,95,Lead
+L0565,Facebook Ads,Retail,1-10,Analyst,50000,61,Lead
+L0566,Email Campaign,Education,201-500,CTO,20000,37,MQL
+L0567,Facebook Ads,Education,51-200,CTO,5000,66,MQL
+L0568,Facebook Ads,Retail,51-200,Manager,10000,37,Opportunity
+L0569,Referral,Education,11-50,Analyst,20000,66,Lead
+L0570,Facebook Ads,SaaS,201-500,Manager,20000,93,Lead
+L0571,Email Campaign,Retail,51-200,Analyst,50000,60,Customer
+L0572,LinkedIn DMs,SaaS,11-50,CTO,50000,0,Lead
+L0573,Facebook Ads,SaaS,201-500,Founder,10000,93,MQL
+L0574,Email Campaign,SaaS,1-10,Founder,5000,44,MQL
+L0575,LinkedIn DMs,SaaS,51-200,Founder,50000,95,MQL
+L0576,Referral,Retail,1-10,Founder,50000,27,Lead
+L0577,Facebook Ads,SaaS,201-500,Founder,20000,20,Lead
+L0578,Referral,SaaS,51-200,Manager,50000,12,Lead
+L0579,Facebook Ads,Education,201-500,Analyst,50000,26,MQL
+L0580,Facebook Ads,Retail,1-10,CTO,50000,99,MQL
+L0581,Facebook Ads,Retail,51-200,Manager,50000,6,Lead
+L0582,Referral,Manufacturing,1-10,Analyst,20000,21,MQL
+L0583,Facebook Ads,Retail,201-500,Founder,10000,73,Opportunity
+L0584,Facebook Ads,Retail,201-500,Analyst,10000,52,Lead
+L0585,Email Campaign,Manufacturing,1-10,Analyst,5000,78,MQL
+L0586,Facebook Ads,Retail,51-200,Founder,50000,78,SQL
+L0587,Facebook Ads,Retail,1-10,Founder,20000,3,Lead
+L0588,Facebook Ads,Retail,201-500,Founder,5000,95,Lead
+L0589,Facebook Ads,Retail,1-10,CTO,5000,22,MQL
+L0590,Facebook Ads,Manufacturing,201-500,Founder,10000,69,Opportunity
+L0591,Facebook Ads,Retail,1-10,CTO,20000,87,Opportunity
+L0592,Email Campaign,Retail,51-200,Founder,20000,83,MQL
+L0593,Facebook Ads,Manufacturing,51-200,CTO,20000,83,SQL
+L0594,Facebook Ads,Education,1-10,Analyst,10000,75,Lead
+L0595,LinkedIn DMs,SaaS,1-10,Manager,10000,32,MQL
+L0596,Facebook Ads,Education,51-200,Analyst,10000,27,MQL
+L0597,Email Campaign,Manufacturing,201-500,Analyst,10000,7,Lead
+L0598,Facebook Ads,SaaS,51-200,Founder,10000,0,SQL
+L0599,Facebook Ads,Manufacturing,201-500,CTO,50000,36,MQL
+L0600,Facebook Ads,Manufacturing,1-10,Manager,50000,62,Lead
+L0601,Facebook Ads,Retail,1-10,Founder,20000,21,Customer
+L0602,Facebook Ads,SaaS,201-500,Founder,5000,69,Lead
+L0603,Facebook Ads,Retail,1-10,Founder,20000,20,Lead
+L0604,Facebook Ads,SaaS,201-500,Analyst,5000,95,Lead
+L0605,Facebook Ads,Manufacturing,11-50,CTO,10000,34,SQL
+L0606,Facebook Ads,Manufacturing,51-200,CTO,5000,78,SQL
+L0607,Facebook Ads,Education,11-50,Manager,20000,4,Lead
+L0608,Facebook Ads,SaaS,201-500,CTO,20000,59,SQL
+L0609,Email Campaign,Retail,51-200,CTO,5000,45,Lead
+L0610,Email Campaign,Education,201-500,Founder,50000,49,SQL
+L0611,Facebook Ads,Education,51-200,Founder,10000,47,MQL
+L0612,LinkedIn DMs,Education,51-200,Analyst,10000,5,MQL
+L0613,Email Campaign,Retail,51-200,Founder,20000,88,Customer
+L0614,Facebook Ads,Education,51-200,Founder,50000,55,Lead
+L0615,LinkedIn DMs,Retail,201-500,Founder,5000,58,Lead
+L0616,Referral,Education,51-200,Founder,10000,28,MQL
+L0617,Facebook Ads,Retail,51-200,Analyst,50000,70,Customer
+L0618,Facebook Ads,Manufacturing,11-50,Founder,10000,76,Lead
+L0619,LinkedIn DMs,Manufacturing,1-10,Manager,50000,17,Lead
+L0620,Email Campaign,Manufacturing,1-10,Manager,50000,1,Lead
+L0621,Facebook Ads,Manufacturing,11-50,Manager,20000,7,MQL
+L0622,Facebook Ads,Manufacturing,11-50,Manager,10000,74,Lead
+L0623,Facebook Ads,Education,201-500,Founder,5000,96,SQL
+L0624,Facebook Ads,Education,201-500,Manager,20000,53,Customer
+L0625,Email Campaign,Education,201-500,Founder,20000,37,MQL
+L0626,Facebook Ads,Retail,11-50,Analyst,5000,47,Lead
+L0627,Facebook Ads,Retail,11-50,Manager,20000,26,MQL
+L0628,Email Campaign,Retail,51-200,CTO,50000,19,Lead
+L0629,Facebook Ads,Retail,201-500,Manager,50000,11,Opportunity
+L0630,Facebook Ads,Manufacturing,201-500,Manager,10000,42,MQL
+L0631,Email Campaign,Manufacturing,201-500,Founder,10000,60,Lead
+L0632,LinkedIn DMs,Manufacturing,1-10,Manager,5000,30,SQL
+L0633,Email Campaign,SaaS,51-200,CTO,10000,90,MQL
+L0634,Email Campaign,Education,201-500,Founder,50000,95,MQL
+L0635,Facebook Ads,Retail,201-500,Founder,5000,60,Lead
+L0636,Facebook Ads,Retail,201-500,Analyst,5000,73,Opportunity
+L0637,Email Campaign,Manufacturing,1-10,Analyst,10000,66,Customer
+L0638,Facebook Ads,Retail,1-10,Manager,50000,90,MQL
+L0639,Facebook Ads,Retail,11-50,Analyst,5000,34,Customer
+L0640,Facebook Ads,Education,51-200,Analyst,50000,94,Lead
+L0641,Facebook Ads,Manufacturing,11-50,Analyst,50000,14,MQL
+L0642,Facebook Ads,Education,51-200,Founder,50000,15,MQL
+L0643,Facebook Ads,SaaS,1-10,Founder,10000,12,MQL
+L0644,Facebook Ads,SaaS,201-500,Founder,20000,34,MQL
+L0645,Facebook Ads,SaaS,11-50,Analyst,20000,74,Lead
+L0646,LinkedIn DMs,Manufacturing,201-500,Founder,5000,58,Lead
+L0647,Email Campaign,Retail,11-50,Analyst,50000,20,Lead
+L0648,Email Campaign,Manufacturing,1-10,Founder,10000,53,Lead
+L0649,LinkedIn DMs,Manufacturing,1-10,Founder,50000,74,SQL
+L0650,Facebook Ads,Retail,1-10,CTO,50000,29,Lead
+L0651,Facebook Ads,Education,11-50,Manager,10000,47,Lead
+L0652,Email Campaign,SaaS,51-200,Analyst,20000,34,MQL
+L0653,Email Campaign,Education,11-50,CTO,50000,85,MQL
+L0654,Email Campaign,SaaS,51-200,Founder,50000,37,Opportunity
+L0655,Facebook Ads,Manufacturing,11-50,Analyst,20000,30,MQL
+L0656,Facebook Ads,SaaS,11-50,Founder,10000,77,Lead
+L0657,Facebook Ads,Manufacturing,1-10,Manager,5000,23,Opportunity
+L0658,Facebook Ads,Education,201-500,CTO,20000,48,MQL
+L0659,Email Campaign,Manufacturing,201-500,Manager,5000,95,Lead
+L0660,Email Campaign,Education,51-200,CTO,5000,99,MQL
+L0661,Facebook Ads,Retail,201-500,Founder,20000,31,Customer
+L0662,Referral,Retail,11-50,Manager,50000,54,Lead
+L0663,Email Campaign,Retail,11-50,Manager,5000,78,Lead
+L0664,Facebook Ads,Manufacturing,1-10,Founder,5000,57,Lead
+L0665,Facebook Ads,Retail,1-10,Manager,10000,98,Lead
+L0666,Facebook Ads,SaaS,201-500,Analyst,50000,2,MQL
+L0667,Facebook Ads,Education,51-200,CTO,5000,79,MQL
+L0668,Facebook Ads,Education,201-500,CTO,10000,68,Lead
+L0669,Facebook Ads,SaaS,201-500,CTO,50000,84,Customer
+L0670,Facebook Ads,Manufacturing,201-500,Analyst,20000,9,SQL
+L0671,Facebook Ads,Manufacturing,201-500,CTO,20000,82,MQL
+L0672,LinkedIn DMs,Education,11-50,Founder,10000,24,Opportunity
+L0673,Facebook Ads,Retail,51-200,Manager,20000,67,Lead
+L0674,Email Campaign,Manufacturing,11-50,Analyst,5000,60,MQL
+L0675,Facebook Ads,Manufacturing,51-200,CTO,50000,28,MQL
+L0676,Referral,SaaS,1-10,Founder,5000,18,Opportunity
+L0677,Facebook Ads,SaaS,201-500,Manager,5000,42,SQL
+L0678,Facebook Ads,Retail,11-50,Manager,20000,65,Lead
+L0679,Referral,Manufacturing,51-200,Analyst,5000,73,Customer
+L0680,LinkedIn DMs,Manufacturing,1-10,Analyst,20000,60,Lead
+L0681,LinkedIn DMs,SaaS,1-10,Analyst,50000,42,Opportunity
+L0682,Facebook Ads,Manufacturing,201-500,Founder,50000,24,Customer
+L0683,Facebook Ads,Education,51-200,Founder,5000,19,Lead
+L0684,Email Campaign,SaaS,11-50,Analyst,10000,47,SQL
+L0685,Referral,Retail,201-500,CTO,20000,82,Lead
+L0686,Email Campaign,SaaS,11-50,Manager,20000,86,MQL
+L0687,Email Campaign,Manufacturing,1-10,Manager,5000,23,MQL
+L0688,Facebook Ads,Retail,11-50,Founder,20000,10,MQL
+L0689,LinkedIn DMs,SaaS,11-50,Manager,20000,97,Customer
+L0690,Facebook Ads,Education,201-500,CTO,10000,54,SQL
+L0691,Facebook Ads,Education,11-50,Manager,10000,27,MQL
+L0692,Facebook Ads,SaaS,201-500,Founder,5000,68,Opportunity
+L0693,Email Campaign,Education,1-10,Founder,10000,62,Customer
+L0694,Facebook Ads,Education,201-500,CTO,5000,58,Lead
+L0695,Facebook Ads,Education,201-500,CTO,50000,4,Customer
+L0696,Email Campaign,Retail,51-200,Manager,5000,50,Lead
+L0697,Facebook Ads,Education,11-50,Manager,50000,20,Opportunity
+L0698,Email Campaign,Education,1-10,Founder,5000,11,Lead
+L0699,Facebook Ads,Education,201-500,CTO,20000,49,Lead
+L0700,Facebook Ads,Retail,1-10,CTO,10000,3,MQL
+L0701,Email Campaign,SaaS,51-200,CTO,50000,41,MQL
+L0702,Facebook Ads,Manufacturing,11-50,Manager,5000,83,Lead
+L0703,Facebook Ads,Education,201-500,CTO,10000,37,Lead
+L0704,Facebook Ads,SaaS,11-50,Founder,5000,24,MQL
+L0705,Facebook Ads,Education,51-200,Founder,10000,13,Customer
+L0706,Referral,Retail,51-200,Manager,10000,74,Lead
+L0707,Facebook Ads,SaaS,1-10,Analyst,5000,31,Lead
+L0708,LinkedIn DMs,Retail,201-500,Manager,50000,10,MQL
+L0709,Facebook Ads,Education,1-10,Analyst,50000,60,Lead
+L0710,Email Campaign,Education,51-200,CTO,20000,17,Opportunity
+L0711,LinkedIn DMs,Retail,11-50,Manager,10000,26,Opportunity
+L0712,Email Campaign,Manufacturing,1-10,Founder,20000,54,MQL
+L0713,Facebook Ads,Retail,1-10,CTO,20000,53,Lead
+L0714,Facebook Ads,Education,11-50,Founder,5000,81,SQL
+L0715,Facebook Ads,Retail,1-10,CTO,5000,86,MQL
+L0716,Referral,Manufacturing,11-50,Manager,5000,74,Opportunity
+L0717,LinkedIn DMs,Retail,201-500,Analyst,10000,20,MQL
+L0718,Referral,Manufacturing,11-50,CTO,5000,43,SQL
+L0719,Facebook Ads,Manufacturing,201-500,Analyst,5000,4,MQL
+L0720,Email Campaign,Retail,11-50,CTO,10000,86,MQL
+L0721,Referral,Retail,51-200,Founder,10000,40,Customer
+L0722,Facebook Ads,SaaS,51-200,Founder,50000,58,MQL
+L0723,Facebook Ads,Education,201-500,CTO,5000,88,MQL
+L0724,Email Campaign,Manufacturing,201-500,Analyst,5000,53,Lead
+L0725,Email Campaign,SaaS,51-200,Manager,5000,73,MQL
+L0726,LinkedIn DMs,Retail,201-500,Manager,50000,21,MQL
+L0727,Facebook Ads,Education,11-50,Founder,5000,82,Lead
+L0728,LinkedIn DMs,SaaS,11-50,Manager,50000,64,Lead
+L0729,Facebook Ads,Manufacturing,51-200,Founder,20000,63,MQL
+L0730,Facebook Ads,SaaS,1-10,Manager,50000,70,SQL
+L0731,Facebook Ads,Manufacturing,11-50,CTO,20000,3,MQL
+L0732,LinkedIn DMs,Retail,201-500,Founder,5000,64,Lead
+L0733,Email Campaign,Education,1-10,Founder,20000,14,SQL
+L0734,Email Campaign,Education,1-10,CTO,50000,75,Lead
+L0735,Facebook Ads,Education,11-50,Founder,10000,21,MQL
+L0736,LinkedIn DMs,Retail,11-50,Manager,20000,85,Lead
+L0737,Facebook Ads,Manufacturing,1-10,Manager,20000,46,Lead
+L0738,LinkedIn DMs,Retail,1-10,Founder,5000,80,Lead
+L0739,Facebook Ads,Education,51-200,Manager,50000,92,Lead
+L0740,Facebook Ads,Retail,201-500,Analyst,20000,45,Lead
+L0741,Facebook Ads,Retail,51-200,Founder,20000,13,Lead
+L0742,Facebook Ads,Retail,11-50,CTO,20000,49,MQL
+L0743,Email Campaign,Manufacturing,51-200,Analyst,20000,19,MQL
+L0744,Email Campaign,SaaS,51-200,Founder,10000,49,Lead
+L0745,Facebook Ads,SaaS,51-200,CTO,50000,32,Opportunity
+L0746,LinkedIn DMs,Retail,51-200,Manager,5000,58,Lead
+L0747,Facebook Ads,SaaS,201-500,CTO,5000,42,MQL
+L0748,Email Campaign,SaaS,201-500,Analyst,10000,78,Lead
+L0749,Referral,Retail,1-10,Manager,50000,11,Lead
+L0750,Email Campaign,Retail,11-50,Founder,20000,39,MQL
+L0751,Facebook Ads,Education,51-200,Manager,10000,19,MQL
+L0752,Referral,SaaS,1-10,Founder,50000,93,Opportunity
+L0753,Email Campaign,Manufacturing,1-10,Founder,20000,37,MQL
+L0754,Facebook Ads,Retail,1-10,CTO,10000,2,Customer
+L0755,Facebook Ads,Education,201-500,CTO,50000,27,Lead
+L0756,LinkedIn DMs,Manufacturing,51-200,CTO,5000,55,Lead
+L0757,Email Campaign,SaaS,51-200,Analyst,5000,89,Lead
+L0758,Email Campaign,Education,11-50,Analyst,50000,93,Lead
+L0759,LinkedIn DMs,Retail,51-200,CTO,5000,12,MQL
+L0760,LinkedIn DMs,Manufacturing,51-200,Analyst,50000,76,MQL
+L0761,Facebook Ads,Retail,1-10,Manager,20000,65,Lead
+L0762,Facebook Ads,SaaS,11-50,Manager,50000,36,Customer
+L0763,Facebook Ads,Manufacturing,51-200,Analyst,20000,48,Opportunity
+L0764,Email Campaign,SaaS,201-500,Analyst,10000,65,Lead
+L0765,Facebook Ads,SaaS,51-200,Manager,50000,35,Lead
+L0766,Email Campaign,Education,1-10,Founder,10000,53,Lead
+L0767,LinkedIn DMs,Retail,201-500,Manager,5000,25,Lead
+L0768,LinkedIn DMs,Manufacturing,1-10,Manager,20000,74,Lead
+L0769,Facebook Ads,SaaS,51-200,Analyst,50000,71,MQL
+L0770,LinkedIn DMs,SaaS,201-500,Manager,10000,39,Lead
+L0771,Facebook Ads,Manufacturing,11-50,Analyst,20000,42,Lead
+L0772,LinkedIn DMs,SaaS,11-50,Analyst,20000,21,Customer
+L0773,Facebook Ads,Education,201-500,CTO,5000,19,SQL
+L0774,Facebook Ads,Education,201-500,Manager,5000,7,Customer
+L0775,LinkedIn DMs,Education,1-10,Founder,20000,28,Lead
+L0776,Facebook Ads,Education,201-500,CTO,20000,39,Lead
+L0777,Facebook Ads,SaaS,1-10,Analyst,50000,89,MQL
+L0778,Email Campaign,Manufacturing,51-200,Analyst,20000,29,Lead
+L0779,Email Campaign,Manufacturing,1-10,Founder,50000,80,Lead
+L0780,Email Campaign,Manufacturing,201-500,Analyst,20000,83,SQL
+L0781,Email Campaign,Manufacturing,201-500,Manager,5000,54,MQL
+L0782,Email Campaign,Retail,51-200,CTO,50000,15,MQL
+L0783,Facebook Ads,Manufacturing,201-500,Analyst,10000,45,MQL
+L0784,Facebook Ads,Retail,201-500,Analyst,5000,61,MQL
+L0785,Facebook Ads,Retail,11-50,Founder,50000,6,Lead
+L0786,Referral,Education,11-50,Manager,50000,79,Lead
+L0787,Email Campaign,Retail,51-200,Analyst,10000,44,Lead
+L0788,Facebook Ads,SaaS,1-10,Founder,50000,58,Lead
+L0789,Facebook Ads,Retail,11-50,Analyst,20000,55,Customer
+L0790,Referral,Education,1-10,Founder,10000,47,MQL
+L0791,Facebook Ads,Retail,201-500,Founder,5000,26,SQL
+L0792,Email Campaign,SaaS,11-50,Manager,5000,52,Lead
+L0793,Email Campaign,SaaS,51-200,Analyst,20000,86,Lead
+L0794,Email Campaign,SaaS,51-200,Manager,5000,87,Lead
+L0795,Facebook Ads,Education,51-200,Founder,50000,72,Lead
+L0796,LinkedIn DMs,Education,11-50,CTO,50000,34,Lead
+L0797,Referral,Manufacturing,1-10,Analyst,20000,50,SQL
+L0798,Email Campaign,Education,201-500,CTO,5000,83,SQL
+L0799,Email Campaign,SaaS,1-10,Analyst,5000,36,MQL
+L0800,Referral,SaaS,1-10,Manager,20000,80,MQL
+L0801,Email Campaign,Education,201-500,Manager,10000,94,Customer
+L0802,Facebook Ads,Retail,201-500,Manager,5000,56,Lead
+L0803,Email Campaign,Education,11-50,Manager,10000,7,Lead
+L0804,Email Campaign,Education,11-50,Manager,5000,78,Lead
+L0805,Facebook Ads,SaaS,11-50,CTO,5000,94,SQL
+L0806,Email Campaign,Manufacturing,11-50,Manager,5000,93,Customer
+L0807,Referral,SaaS,11-50,Founder,5000,19,Lead
+L0808,Referral,Manufacturing,201-500,Founder,50000,52,Opportunity
+L0809,Facebook Ads,SaaS,1-10,CTO,10000,11,Opportunity
+L0810,Facebook Ads,Education,11-50,Analyst,10000,48,Lead
+L0811,Referral,SaaS,11-50,Founder,5000,16,Lead
+L0812,LinkedIn DMs,SaaS,1-10,Analyst,5000,63,MQL
+L0813,Facebook Ads,SaaS,11-50,CTO,10000,41,Customer
+L0814,Referral,Education,1-10,Analyst,50000,93,Lead
+L0815,LinkedIn DMs,Education,1-10,Analyst,20000,28,SQL
+L0816,Email Campaign,Education,201-500,Analyst,20000,18,Lead
+L0817,Email Campaign,Education,51-200,Analyst,10000,10,SQL
+L0818,Facebook Ads,Manufacturing,201-500,CTO,5000,97,MQL
+L0819,Facebook Ads,Manufacturing,51-200,Founder,5000,49,MQL
+L0820,Facebook Ads,Retail,51-200,Manager,50000,70,Opportunity
+L0821,LinkedIn DMs,Education,51-200,Analyst,20000,57,Opportunity
+L0822,Facebook Ads,Manufacturing,11-50,Founder,50000,33,Opportunity
+L0823,Facebook Ads,SaaS,201-500,Founder,20000,19,Lead
+L0824,Facebook Ads,Education,51-200,CTO,10000,49,SQL
+L0825,Email Campaign,Retail,1-10,Founder,20000,87,Lead
+L0826,Referral,Retail,11-50,CTO,50000,9,MQL
+L0827,Facebook Ads,Retail,201-500,Analyst,50000,31,MQL
+L0828,Facebook Ads,SaaS,51-200,Analyst,50000,51,MQL
+L0829,Email Campaign,Manufacturing,1-10,Manager,10000,14,MQL
+L0830,Facebook Ads,SaaS,201-500,Manager,20000,83,Customer
+L0831,Facebook Ads,Education,201-500,Manager,20000,2,Lead
+L0832,Facebook Ads,Retail,11-50,Founder,50000,36,SQL
+L0833,Facebook Ads,SaaS,201-500,Analyst,20000,39,Lead
+L0834,Facebook Ads,SaaS,11-50,CTO,5000,71,Lead
+L0835,Facebook Ads,Manufacturing,51-200,Manager,5000,39,Lead
+L0836,Facebook Ads,Manufacturing,11-50,CTO,5000,55,Customer
+L0837,Referral,Retail,1-10,CTO,20000,22,Opportunity
+L0838,Facebook Ads,SaaS,11-50,Manager,10000,10,Customer
+L0839,Email Campaign,SaaS,1-10,Analyst,10000,63,Customer
+L0840,Email Campaign,Manufacturing,11-50,Manager,10000,7,Lead
+L0841,Facebook Ads,SaaS,201-500,CTO,10000,92,Lead
+L0842,Email Campaign,SaaS,51-200,Manager,5000,93,SQL
+L0843,Facebook Ads,SaaS,1-10,CTO,5000,55,MQL
+L0844,Referral,Manufacturing,11-50,CTO,50000,59,MQL
+L0845,Facebook Ads,Retail,11-50,Manager,20000,9,Lead
+L0846,Facebook Ads,Education,11-50,Founder,20000,38,MQL
+L0847,Facebook Ads,Retail,201-500,Manager,10000,27,MQL
+L0848,Referral,Education,201-500,Founder,5000,48,Lead
+L0849,Email Campaign,SaaS,1-10,CTO,10000,35,MQL
+L0850,Email Campaign,Retail,1-10,CTO,50000,12,MQL
+L0851,Facebook Ads,Education,201-500,Founder,20000,95,MQL
+L0852,Email Campaign,Manufacturing,1-10,CTO,20000,35,Lead
+L0853,Facebook Ads,Manufacturing,51-200,Founder,10000,25,SQL
+L0854,LinkedIn DMs,Retail,51-200,Founder,50000,85,Lead
+L0855,Facebook Ads,Retail,201-500,CTO,20000,3,Lead
+L0856,Facebook Ads,SaaS,1-10,Analyst,50000,94,SQL
+L0857,Facebook Ads,Retail,11-50,Founder,50000,81,MQL
+L0858,Facebook Ads,SaaS,51-200,Manager,10000,63,Lead
+L0859,Email Campaign,SaaS,201-500,Manager,5000,37,SQL
+L0860,Facebook Ads,Manufacturing,1-10,CTO,10000,87,MQL
+L0861,LinkedIn DMs,Manufacturing,201-500,Analyst,5000,86,SQL
+L0862,Facebook Ads,Education,11-50,CTO,50000,21,SQL
+L0863,Email Campaign,Manufacturing,51-200,Analyst,5000,1,MQL
+L0864,Facebook Ads,Manufacturing,201-500,Founder,50000,30,MQL
+L0865,Facebook Ads,Retail,201-500,Founder,20000,10,Lead
+L0866,Email Campaign,Manufacturing,201-500,Founder,20000,91,Lead
+L0867,Facebook Ads,Education,11-50,Founder,20000,45,MQL
+L0868,Facebook Ads,Retail,201-500,Manager,10000,95,MQL
+L0869,LinkedIn DMs,Education,11-50,Manager,10000,61,MQL
+L0870,Referral,Manufacturing,11-50,CTO,50000,68,Lead
+L0871,Facebook Ads,Education,11-50,Analyst,20000,63,Lead
+L0872,Facebook Ads,Retail,51-200,Founder,10000,9,MQL
+L0873,Email Campaign,SaaS,51-200,Founder,20000,39,Lead
+L0874,Facebook Ads,Education,201-500,Analyst,10000,23,SQL
+L0875,Facebook Ads,Education,201-500,Analyst,5000,98,Lead
+L0876,Facebook Ads,Retail,51-200,CTO,5000,43,MQL
+L0877,Email Campaign,Retail,1-10,Analyst,20000,59,Customer
+L0878,Email Campaign,Education,51-200,Founder,50000,61,Lead
+L0879,Facebook Ads,Manufacturing,11-50,Founder,10000,86,MQL
+L0880,Facebook Ads,Education,51-200,Founder,10000,16,Lead
+L0881,Facebook Ads,Retail,11-50,Founder,5000,64,MQL
+L0882,Email Campaign,SaaS,201-500,Founder,5000,94,MQL
+L0883,Facebook Ads,SaaS,1-10,CTO,50000,94,MQL
+L0884,Facebook Ads,Manufacturing,201-500,Founder,50000,56,MQL
+L0885,LinkedIn DMs,Education,11-50,CTO,50000,54,Opportunity
+L0886,Facebook Ads,SaaS,11-50,Founder,20000,52,Lead
+L0887,Email Campaign,Education,11-50,Manager,5000,55,Lead
+L0888,Facebook Ads,Retail,1-10,Manager,20000,97,Opportunity
+L0889,Facebook Ads,SaaS,51-200,Manager,5000,8,MQL
+L0890,Facebook Ads,Manufacturing,201-500,Manager,5000,21,Opportunity
+L0891,Email Campaign,Retail,201-500,CTO,10000,12,MQL
+L0892,LinkedIn DMs,Manufacturing,51-200,CTO,5000,88,Opportunity
+L0893,LinkedIn DMs,Retail,201-500,Analyst,5000,47,MQL
+L0894,Facebook Ads,SaaS,1-10,Founder,20000,17,SQL
+L0895,Email Campaign,Manufacturing,201-500,Manager,5000,75,Customer
+L0896,Facebook Ads,Manufacturing,11-50,CTO,20000,39,MQL
+L0897,Facebook Ads,Retail,51-200,Founder,50000,16,Lead
+L0898,LinkedIn DMs,Manufacturing,1-10,Founder,5000,14,Lead
+L0899,Facebook Ads,Retail,51-200,CTO,5000,14,Lead
+L0900,Facebook Ads,Retail,1-10,Manager,20000,78,Lead
+L0901,Facebook Ads,Retail,11-50,Analyst,50000,62,Lead
+L0902,Facebook Ads,Retail,51-200,Founder,10000,38,MQL
+L0903,Facebook Ads,SaaS,201-500,Analyst,50000,12,MQL
+L0904,Email Campaign,Retail,1-10,Manager,20000,80,MQL
+L0905,Facebook Ads,Education,51-200,Manager,50000,31,MQL
+L0906,LinkedIn DMs,Manufacturing,201-500,Analyst,20000,8,Lead
+L0907,LinkedIn DMs,Education,51-200,Manager,20000,39,Lead
+L0908,Facebook Ads,SaaS,51-200,Founder,10000,19,Lead
+L0909,Facebook Ads,Education,51-200,Analyst,5000,89,MQL
+L0910,Facebook Ads,Manufacturing,1-10,Manager,20000,90,Lead
+L0911,Email Campaign,Education,201-500,Analyst,20000,84,Lead
+L0912,Facebook Ads,SaaS,11-50,Founder,10000,81,MQL
+L0913,Email Campaign,Retail,1-10,Manager,20000,76,Opportunity
+L0914,Facebook Ads,Education,1-10,Founder,5000,79,Lead
+L0915,Email Campaign,SaaS,1-10,Manager,10000,72,MQL
+L0916,Facebook Ads,SaaS,11-50,CTO,5000,62,SQL
+L0917,Facebook Ads,Manufacturing,201-500,Manager,5000,75,SQL
+L0918,Referral,Manufacturing,201-500,Analyst,10000,43,Customer
+L0919,LinkedIn DMs,Education,201-500,Manager,20000,37,Lead
+L0920,Facebook Ads,Retail,51-200,Founder,5000,82,Lead
+L0921,LinkedIn DMs,SaaS,51-200,Founder,5000,59,Opportunity
+L0922,Facebook Ads,Education,51-200,Manager,5000,70,MQL
+L0923,LinkedIn DMs,SaaS,11-50,Analyst,5000,98,MQL
+L0924,LinkedIn DMs,SaaS,51-200,CTO,10000,47,SQL
+L0925,Facebook Ads,Retail,11-50,Analyst,10000,17,SQL
+L0926,Facebook Ads,Retail,201-500,CTO,50000,15,Customer
+L0927,Facebook Ads,Education,51-200,Founder,50000,54,Customer
+L0928,Email Campaign,Retail,51-200,Analyst,5000,38,SQL
+L0929,Email Campaign,Retail,1-10,CTO,20000,67,Lead
+L0930,Facebook Ads,Education,11-50,Manager,5000,58,Opportunity
+L0931,Facebook Ads,Retail,201-500,Founder,20000,88,Lead
+L0932,LinkedIn DMs,Manufacturing,1-10,Manager,5000,95,Lead
+L0933,Referral,SaaS,1-10,Founder,50000,61,Opportunity
+L0934,Email Campaign,SaaS,201-500,Analyst,50000,12,Lead
+L0935,Facebook Ads,SaaS,1-10,Analyst,20000,80,Lead
+L0936,Facebook Ads,SaaS,11-50,Founder,5000,5,Lead
+L0937,Facebook Ads,Education,11-50,Founder,20000,82,Opportunity
+L0938,Referral,SaaS,51-200,Founder,50000,76,MQL
+L0939,Facebook Ads,SaaS,1-10,Analyst,5000,59,SQL
+L0940,Email Campaign,SaaS,51-200,CTO,5000,89,Lead
+L0941,Facebook Ads,SaaS,1-10,Manager,20000,13,SQL
+L0942,Email Campaign,Manufacturing,11-50,Manager,10000,94,SQL
+L0943,Email Campaign,SaaS,11-50,Analyst,20000,53,Lead
+L0944,LinkedIn DMs,Manufacturing,11-50,Manager,50000,3,MQL
+L0945,Facebook Ads,Education,1-10,Founder,50000,38,Lead
+L0946,Facebook Ads,Retail,11-50,CTO,50000,71,Customer
+L0947,Facebook Ads,SaaS,1-10,Manager,50000,24,MQL
+L0948,Referral,Retail,51-200,CTO,50000,76,Customer
+L0949,LinkedIn DMs,Retail,1-10,Founder,10000,31,Lead
+L0950,Email Campaign,Education,51-200,Manager,5000,58,SQL
+L0951,Email Campaign,Retail,1-10,Analyst,20000,62,SQL
+L0952,Email Campaign,Manufacturing,51-200,CTO,20000,37,SQL
+L0953,Facebook Ads,Retail,11-50,Founder,50000,91,Customer
+L0954,Referral,Retail,51-200,CTO,20000,52,Lead
+L0955,Facebook Ads,Retail,11-50,Manager,50000,93,Lead
+L0956,Facebook Ads,SaaS,11-50,Manager,10000,66,SQL
+L0957,Email Campaign,SaaS,51-200,Analyst,10000,27,SQL
+L0958,Facebook Ads,Manufacturing,1-10,Founder,5000,2,MQL
+L0959,Facebook Ads,Manufacturing,1-10,Founder,10000,97,Lead
+L0960,Email Campaign,SaaS,201-500,Analyst,10000,79,MQL
+L0961,Facebook Ads,Manufacturing,1-10,Analyst,5000,21,Lead
+L0962,Email Campaign,SaaS,201-500,Founder,20000,95,MQL
+L0963,Facebook Ads,Education,1-10,CTO,50000,37,MQL
+L0964,Facebook Ads,Retail,1-10,CTO,50000,71,SQL
+L0965,Facebook Ads,Retail,11-50,Analyst,20000,71,Lead
+L0966,Facebook Ads,Manufacturing,201-500,CTO,5000,61,MQL
+L0967,Email Campaign,SaaS,1-10,Founder,20000,56,Lead
+L0968,Facebook Ads,SaaS,201-500,Manager,10000,5,Lead
+L0969,Email Campaign,Manufacturing,11-50,Manager,5000,77,SQL
+L0970,Facebook Ads,SaaS,11-50,CTO,5000,31,Customer
+L0971,Email Campaign,Education,201-500,Analyst,5000,98,Lead
+L0972,Referral,Retail,11-50,Analyst,50000,9,SQL
+L0973,Email Campaign,Manufacturing,51-200,Analyst,20000,2,Opportunity
+L0974,Facebook Ads,Manufacturing,51-200,Analyst,5000,58,Opportunity
+L0975,Facebook Ads,SaaS,11-50,Analyst,5000,75,Lead
+L0976,Facebook Ads,Manufacturing,51-200,CTO,5000,48,Customer
+L0977,Email Campaign,Education,1-10,Manager,20000,58,Lead
+L0978,Facebook Ads,SaaS,201-500,Manager,50000,30,Lead
+L0979,Facebook Ads,SaaS,1-10,CTO,10000,92,Lead
+L0980,Email Campaign,SaaS,201-500,Analyst,50000,68,MQL
+L0981,Facebook Ads,SaaS,11-50,CTO,5000,61,Lead
+L0982,LinkedIn DMs,Education,1-10,Manager,50000,51,Lead
+L0983,Facebook Ads,SaaS,11-50,Founder,50000,88,Lead
+L0984,Facebook Ads,Manufacturing,11-50,CTO,10000,40,Opportunity
+L0985,Email Campaign,Education,201-500,Analyst,20000,30,Opportunity
+L0986,Facebook Ads,Retail,201-500,Manager,20000,84,Lead
+L0987,Email Campaign,Retail,201-500,Manager,50000,83,Opportunity
+L0988,Facebook Ads,Manufacturing,1-10,Manager,50000,21,Opportunity
+L0989,Facebook Ads,Manufacturing,51-200,Manager,20000,3,SQL
+L0990,LinkedIn DMs,Education,201-500,Analyst,20000,12,Lead
+L0991,LinkedIn DMs,Retail,201-500,Founder,10000,44,SQL
+L0992,Email Campaign,Retail,1-10,Manager,5000,41,Customer
+L0993,Facebook Ads,Retail,201-500,CTO,50000,48,SQL
+L0994,Email Campaign,Retail,1-10,Founder,20000,19,Lead
+L0995,Facebook Ads,Retail,11-50,Manager,50000,76,MQL
+L0996,Facebook Ads,SaaS,201-500,Founder,50000,80,MQL
+L0997,Referral,Manufacturing,201-500,CTO,20000,53,MQL
+L0998,Facebook Ads,SaaS,11-50,Manager,10000,35,Lead
+L0999,Referral,Retail,11-50,CTO,50000,96,Lead
+L1000,Facebook Ads,Education,11-50,Analyst,10000,0,Opportunity
